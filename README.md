@@ -6,5 +6,5 @@ suppose js file name is app.js and content file is content.txt then
 run-> node app.js content.txt
 
 Search for a specific word:
-run-> ndoe app.js content.txt Hello
+run-> node app.js content.txt Hello
 
